@@ -1,0 +1,302 @@
+# depslib dependency file v1.0
+1369850112 source:d:\algoritma ve proglamlama 2 projeler\ogrenci_takip_sistemi-proje3\main.cpp
+	<iostream>
+	"String.h"
+	"Tarih.h"
+	"Bilgisayar.h"
+	"Ogrenci.h"
+	"Ogrenci_Dizisi.h"
+
+1369847478 d:\algoritma ve proglamlama 2 projeler\ogrenci_takip_sistemi-proje3\string.h
+
+1369850621 source:d:\algoritma ve proglamlama 2 projeler\ogrenci_takip_sistemi-proje3\string.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<cassert>
+	<cstring>
+	"String.h"
+
+1369848058 source:d:\algoritma ve proglamlama 2 projeler\ogrenci_takip_sistemi-proje3\tarih.cpp
+	<iostream>
+	<iomanip>
+	"Tarih.h"
+
+1369848077 d:\algoritma ve proglamlama 2 projeler\ogrenci_takip_sistemi-proje3\tarih.h
+
+1369847255 source:d:\algoritma ve proglamlama 2 projeler\ogrenci_takip_sistemi-proje3\bilgisayar.cpp
+	<iostream>
+	<iomanip>
+	"String.h"
+	"Bilgisayar.h"
+
+1369847272 d:\algoritma ve proglamlama 2 projeler\ogrenci_takip_sistemi-proje3\bilgisayar.h
+	"String.h"
+
+1369847191 source:d:\algoritma ve proglamlama 2 projeler\ogrenci_takip_sistemi-proje3\ogrenci.cpp
+	<iostream>
+	<iomanip>
+	"String.h"
+	"Tarih.h"
+	"Bilgisayar.h"
+	"Ogrenci.h"
+
+1369847231 d:\algoritma ve proglamlama 2 projeler\ogrenci_takip_sistemi-proje3\ogrenci.h
+	"String.h"
+	"Tarih.h"
+	"Bilgisayar.h"
+
+1369336536 source:f:\algor›tma ve programlama 1-2\alg2-projeler\proje 3\ogrenci_takip_sistemi-proje3\ogrenci.cpp
+	<iostream>
+	<iomanip>
+	"String.h"
+	"Tarih.h"
+	"Bilgisayar.h"
+	"Ogrenci.h"
+
+1369327018 f:\algor›tma ve programlama 1-2\alg2-projeler\proje 3\ogrenci_takip_sistemi-proje3\string.h
+
+1369327985 f:\algor›tma ve programlama 1-2\alg2-projeler\proje 3\ogrenci_takip_sistemi-proje3\tarih.h
+
+1369328181 f:\algor›tma ve programlama 1-2\alg2-projeler\proje 3\ogrenci_takip_sistemi-proje3\bilgisayar.h
+	"String.h"
+
+1369336536 f:\algor›tma ve programlama 1-2\alg2-projeler\proje 3\ogrenci_takip_sistemi-proje3\ogrenci.h
+	"String.h"
+	"Tarih.h"
+	"Bilgisayar.h"
+
+1369342147 source:f:\algor›tma ve programlama 1-2\alg2-projeler\proje 3\ogrenci_takip_sistemi-proje3\ogrenci_dizisi.cpp
+	<iostream>
+	<iomanip>
+	"String.h"
+	"Tarih.h"
+	"Bilgisayar.h"
+	"Ogrenci.h"
+	"Ogrenci_Dizisi.h"
+
+1369342147 f:\algor›tma ve programlama 1-2\alg2-projeler\proje 3\ogrenci_takip_sistemi-proje3\ogrenci_dizisi.h
+	"String.h"
+	"Tarih.h"
+	"Bilgisayar.h"
+	"Ogrenci.h"
+
+1369327052 source:f:\algor›tma ve programlama 1-2\alg2-projeler\proje 3\ogrenci_takip_sistemi-proje3\string.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<cassert>
+	<cstring>
+	"String.h"
+
+1369327964 source:f:\algor›tma ve programlama 1-2\alg2-projeler\proje 3\ogrenci_takip_sistemi-proje3\tarih.cpp
+	<iostream>
+	<iomanip>
+	"Tarih.h"
+
+1369336619 source:f:\algor›tma ve programlama 1-2\alg2-projeler\proje 3\ogrenci_takip_sistemi-proje3\main.cpp
+	<iostream>
+	"String.h"
+	"Tarih.h"
+	"Bilgisayar.h"
+	"Ogrenci.h"
+
+1369334572 source:f:\algor›tma ve programlama 1-2\alg2-projeler\proje 3\ogrenci_takip_sistemi-proje3\bilgisayar.cpp
+	<iostream>
+	<iomanip>
+	"String.h"
+	"Bilgisayar.h"
+
+1368858619 source:d:\algor›tma ve programlama 1-2\alg2-projeler\proje 3\ogrenci_takip_sistemi-proje3\ogrenci.cpp
+	<iostream>
+	<iomanip>
+	"String.h"
+	"Tarih.h"
+	"Bilgisayar.h"
+	"Ogrenci.h"
+
+1369327018 d:\algor›tma ve programlama 1-2\alg2-projeler\proje 3\ogrenci_takip_sistemi-proje3\string.h
+
+1369327985 d:\algor›tma ve programlama 1-2\alg2-projeler\proje 3\ogrenci_takip_sistemi-proje3\tarih.h
+
+1368856767 d:\algor›tma ve programlama 1-2\alg2-projeler\proje 3\ogrenci_takip_sistemi-proje3\bilgisayar.h
+	"String.h"
+
+1368858619 d:\algor›tma ve programlama 1-2\alg2-projeler\proje 3\ogrenci_takip_sistemi-proje3\ogrenci.h
+	"String.h"
+	"Tarih.h"
+	"Bilgisayar.h"
+
+1369342147 source:d:\algor›tma ve programlama 1-2\alg2-projeler\proje 3\ogrenci_takip_sistemi-proje3\ogrenci_dizisi.cpp
+	<iostream>
+	<iomanip>
+	"String.h"
+	"Tarih.h"
+	"Bilgisayar.h"
+	"Ogrenci.h"
+	"Ogrenci_Dizisi.h"
+
+1369342147 d:\algor›tma ve programlama 1-2\alg2-projeler\proje 3\ogrenci_takip_sistemi-proje3\ogrenci_dizisi.h
+	"String.h"
+	"Tarih.h"
+	"Bilgisayar.h"
+	"Ogrenci.h"
+
+1369327052 source:d:\algor›tma ve programlama 1-2\alg2-projeler\proje 3\ogrenci_takip_sistemi-proje3\string.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<cassert>
+	<cstring>
+	"String.h"
+
+1369327964 source:d:\algor›tma ve programlama 1-2\alg2-projeler\proje 3\ogrenci_takip_sistemi-proje3\tarih.cpp
+	<iostream>
+	<iomanip>
+	"Tarih.h"
+
+1368858620 source:d:\algor›tma ve programlama 1-2\alg2-projeler\proje 3\ogrenci_takip_sistemi-proje3\main.cpp
+	<iostream>
+	"String.h"
+	"Tarih.h"
+	"Bilgisayar.h"
+	"Ogrenci.h"
+
+1368858619 source:g:\algor›tma ve programlama 1-2\alg2-projeler\proje 3\ogrenci_takip_sistemi-proje3\ogrenci.cpp
+	<iostream>
+	<iomanip>
+	"String.h"
+	"Tarih.h"
+	"Bilgisayar.h"
+	"Ogrenci.h"
+
+1369327018 g:\algor›tma ve programlama 1-2\alg2-projeler\proje 3\ogrenci_takip_sistemi-proje3\string.h
+
+1369327985 g:\algor›tma ve programlama 1-2\alg2-projeler\proje 3\ogrenci_takip_sistemi-proje3\tarih.h
+
+1368856767 g:\algor›tma ve programlama 1-2\alg2-projeler\proje 3\ogrenci_takip_sistemi-proje3\bilgisayar.h
+	"String.h"
+
+1368858619 g:\algor›tma ve programlama 1-2\alg2-projeler\proje 3\ogrenci_takip_sistemi-proje3\ogrenci.h
+	"String.h"
+	"Tarih.h"
+	"Bilgisayar.h"
+
+1369342147 source:g:\algor›tma ve programlama 1-2\alg2-projeler\proje 3\ogrenci_takip_sistemi-proje3\ogrenci_dizisi.cpp
+	<iostream>
+	<iomanip>
+	"String.h"
+	"Tarih.h"
+	"Bilgisayar.h"
+	"Ogrenci.h"
+	"Ogrenci_Dizisi.h"
+
+1369342147 g:\algor›tma ve programlama 1-2\alg2-projeler\proje 3\ogrenci_takip_sistemi-proje3\ogrenci_dizisi.h
+	"String.h"
+	"Tarih.h"
+	"Bilgisayar.h"
+	"Ogrenci.h"
+
+1369327052 source:g:\algor›tma ve programlama 1-2\alg2-projeler\proje 3\ogrenci_takip_sistemi-proje3\string.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<cassert>
+	<cstring>
+	"String.h"
+
+1369327964 source:g:\algor›tma ve programlama 1-2\alg2-projeler\proje 3\ogrenci_takip_sistemi-proje3\tarih.cpp
+	<iostream>
+	<iomanip>
+	"Tarih.h"
+
+1368858620 source:g:\algor›tma ve programlama 1-2\alg2-projeler\proje 3\ogrenci_takip_sistemi-proje3\main.cpp
+	<iostream>
+	"String.h"
+	"Tarih.h"
+	"Bilgisayar.h"
+	"Ogrenci.h"
+
+1369395861 source:g:\algor›tma ve programlama 1-2\alg2-projeler\proje 3\ogrenci_takip_sistemi-proje3\bilgisayar.cpp
+	<iostream>
+	<iomanip>
+	"String.h"
+	"Bilgisayar.h"
+
+1369847885 source:d:\algoritma ve proglamlama 2 projeler\ogrenci_takip_sistemi-proje3\ogrenci_dizisi.cpp
+	<iostream>
+	<iomanip>
+	"String.h"
+	"Tarih.h"
+	"Bilgisayar.h"
+	"Ogrenci.h"
+	"Ogrenci_Dizisi.h"
+
+1369847885 d:\algoritma ve proglamlama 2 projeler\ogrenci_takip_sistemi-proje3\ogrenci_dizisi.h
+	"String.h"
+	"Tarih.h"
+	"Bilgisayar.h"
+	"Ogrenci.h"
+
+1369847191 source:d:\algoritma ve proglamlama 2 projeler\proje3\friend yok\ogrenci_takip_sistemi-proje3\ogrenci.cpp
+	<iostream>
+	<iomanip>
+	"String.h"
+	"Tarih.h"
+	"Bilgisayar.h"
+	"Ogrenci.h"
+
+1369847478 d:\algoritma ve proglamlama 2 projeler\proje3\friend yok\ogrenci_takip_sistemi-proje3\string.h
+
+1369848077 d:\algoritma ve proglamlama 2 projeler\proje3\friend yok\ogrenci_takip_sistemi-proje3\tarih.h
+
+1369847272 d:\algoritma ve proglamlama 2 projeler\proje3\friend yok\ogrenci_takip_sistemi-proje3\bilgisayar.h
+	"String.h"
+
+1369847231 d:\algoritma ve proglamlama 2 projeler\proje3\friend yok\ogrenci_takip_sistemi-proje3\ogrenci.h
+	"String.h"
+	"Tarih.h"
+	"Bilgisayar.h"
+
+1369847885 source:d:\algoritma ve proglamlama 2 projeler\proje3\friend yok\ogrenci_takip_sistemi-proje3\ogrenci_dizisi.cpp
+	<iostream>
+	<iomanip>
+	"String.h"
+	"Tarih.h"
+	"Bilgisayar.h"
+	"Ogrenci.h"
+	"Ogrenci_Dizisi.h"
+
+1369847885 d:\algoritma ve proglamlama 2 projeler\proje3\friend yok\ogrenci_takip_sistemi-proje3\ogrenci_dizisi.h
+	"String.h"
+	"Tarih.h"
+	"Bilgisayar.h"
+	"Ogrenci.h"
+
+1369850621 source:d:\algoritma ve proglamlama 2 projeler\proje3\friend yok\ogrenci_takip_sistemi-proje3\string.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<cassert>
+	<cstring>
+	"String.h"
+
+1369848058 source:d:\algoritma ve proglamlama 2 projeler\proje3\friend yok\ogrenci_takip_sistemi-proje3\tarih.cpp
+	<iostream>
+	<iomanip>
+	"Tarih.h"
+
+1369850112 source:d:\algoritma ve proglamlama 2 projeler\proje3\friend yok\ogrenci_takip_sistemi-proje3\main.cpp
+	<iostream>
+	"String.h"
+	"Tarih.h"
+	"Bilgisayar.h"
+	"Ogrenci.h"
+	"Ogrenci_Dizisi.h"
+
+1369847255 source:d:\algoritma ve proglamlama 2 projeler\proje3\friend yok\ogrenci_takip_sistemi-proje3\bilgisayar.cpp
+	<iostream>
+	<iomanip>
+	"String.h"
+	"Bilgisayar.h"
+
